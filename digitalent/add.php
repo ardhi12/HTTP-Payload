@@ -1,7 +1,7 @@
 <?php
 //konfigurasi koneksi ke mysql
 $servername = "localhost";
-$username = "user_iot";
+$username = "user_iot";   // ganti dengan username dan password sesuai dengan user pada phpmyadmin
 $password = "ardhi12";
 $dbname = "iot_intensity";
 
