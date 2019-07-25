@@ -43,8 +43,7 @@ if ($result->num_rows > 0) {    				// jika hasil eksekusi query > 0 (artinya : 
 		<h2>berbasis Internet of Things</h>
 		<br>
 		<br>
-		<br>
-		<br>
+		<br>		
 		<span>Intensitas Cahaya :</span>
 		<br>
 		<span style="font-size: 50px;"><b><?php echo $nilai_sensor ?><b></span>  <!-- tampilkan data intent -->
@@ -53,6 +52,12 @@ if ($result->num_rows > 0) {    				// jika hasil eksekusi query > 0 (artinya : 
 		<span>Kondisi Ruangan :</span>
 		<br>
 		<span style="font-size: 50px;"><b><?php echo $kondisi ?><b></span>       <!-- tampilkan kondisi ruangan -->
+		<br>
+		<br>
+		<br>
+		<span>Developed by : Ardhi Wahyudhi</span>
+		<br>
+		<span>Digitalent Scholarship 2019</span>		
 	</center>
 </body>
 </html> 

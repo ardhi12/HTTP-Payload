@@ -1,3 +1,10 @@
+/* HTTP PAYLOAD
+ * Pemantauan Intensitas Cahaya berbasis IoT
+ * 
+ * Developed by : Ardhi Wahyudhi
+ * Full project : https://github.com/ardhi12/HTTP-Payload
+ */
+
 #include <WiFi.h>
 #include <HTTPClient.h> 
 
