@@ -55,7 +55,7 @@ if ($result->num_rows > 0) {    				// jika hasil eksekusi query > 0 (artinya : 
 		<br>
 		<br>
 		<br>
-		<span>Developed by : Ardhi Wahyudhi</span>
+		<span>Developed by : Ardhi Wahyudhi & Farhad Zamani</span>
 		<br>
 		<span>Digitalent Scholarship 2019</span>		
 	</center>
